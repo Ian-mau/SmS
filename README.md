@@ -1,2 +1,2 @@
 # Practice asp.net core project
-SmS project.
+Sms project.
